@@ -1,0 +1,5 @@
+﻿  块链串.c
+e:\数据结构\块链串\块链串\块链串.c(40): warning C4133: “=”: 从“LinkNode *”到“HEADER *”的类型不兼容
+e:\数据结构\块链串\块链串\块链串.c(76): warning C4133: “=”: 从“HEADER *”到“LinkNode *”的类型不兼容
+e:\数据结构\块链串\块链串\块链串.c(69): warning C4716: “Create”: 必须返回一个值
+  块链串.vcxproj -> E:\数据结构\块链串\Debug\块链串.exe

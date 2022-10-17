@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "交换排序-快速排序", "交换排序-快速排序\交换排序-快速排序.vcxproj", "{C266D6E9-A1E6-4834-8C22-4DD7D92F22AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C266D6E9-A1E6-4834-8C22-4DD7D92F22AA}.Debug|x64.ActiveCfg = Debug|x64
+		{C266D6E9-A1E6-4834-8C22-4DD7D92F22AA}.Debug|x64.Build.0 = Debug|x64
+		{C266D6E9-A1E6-4834-8C22-4DD7D92F22AA}.Release|x64.ActiveCfg = Release|x64
+		{C266D6E9-A1E6-4834-8C22-4DD7D92F22AA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DEE440F-C93F-4958-9B82-2427C14CC1D9}
+	EndGlobalSection
+EndGlobal

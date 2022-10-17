@@ -1,0 +1,5 @@
+﻿  TestVirus.c
+e:\数据结构\实操-kmp实现环状dna的病毒检测\实操-kmp实现环状dna的病毒检测\testvirus.c(43): warning C4033: “Copy”必须返回值
+e:\数据结构\实操-kmp实现环状dna的病毒检测\实操-kmp实现环状dna的病毒检测\testvirus.c(56): warning C4715: “Copy”: 不是所有的控件路径都返回值
+e:\数据结构\实操-kmp实现环状dna的病毒检测\实操-kmp实现环状dna的病毒检测\testvirus.c(102): warning C4716: “GetNext”: 必须返回一个值
+  实操-KMP实现环状DNA的病毒检测.vcxproj -> E:\数据结构\实操-KMP实现环状DNA的病毒检测\Debug\实操-KMP实现环状DNA的病毒检测.exe

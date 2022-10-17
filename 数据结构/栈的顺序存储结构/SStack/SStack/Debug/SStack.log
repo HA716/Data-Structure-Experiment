@@ -1,0 +1,5 @@
+﻿  SStack.c
+e:\数据结构\栈的顺序存储结构\sstack\sstack\sstack.c(80): warning C4033: “topElem”必须返回值
+e:\数据结构\栈的顺序存储结构\sstack\sstack\sstack.c(84): warning C4033: “topElem”必须返回值
+e:\数据结构\栈的顺序存储结构\sstack\sstack\sstack.c(89): warning C4715: “topElem”: 不是所有的控件路径都返回值
+  SStack.vcxproj -> E:\数据结构\栈的顺序存储结构\SStack\Debug\SStack.exe

@@ -1,0 +1,5 @@
+﻿  AdjList.c
+e:\数据结构\图的邻接表表示法\图的邻接表表示法\adjlist.c(55): warning C4033: “Locate”必须返回值
+e:\数据结构\图的邻接表表示法\图的邻接表表示法\adjlist.c(56): warning C4033: “Locate”必须返回值
+e:\数据结构\图的邻接表表示法\图的邻接表表示法\adjlist.c(66): warning C4715: “Locate”: 不是所有的控件路径都返回值
+  图的邻接表表示法.vcxproj -> E:\数据结构\图的邻接表表示法\Debug\图的邻接表表示法.exe

@@ -1,0 +1,5 @@
+﻿E:\数据结构\Prim-最短路径\Prim-最短路径\Prim-最短路径.vcxproj(64,5): warning MSB4011: 无法再次导入“C:\Users\Hbr\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props”。可能已在“E:\数据结构\Prim-最短路径\Prim-最短路径\Prim-最短路径.vcxproj (58,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  Prim-最短路径.cpp
+e:\数据结构\prim-最短路径\prim-最短路径\prim-最短路径.cpp(3): warning C4005: “INT_MAX”: 宏重定义
+  d:\vs\vc\tools\msvc\14.16.27023\include\limits.h(35): note: 参见“INT_MAX”的前一个定义
+  Prim-最短路径.vcxproj -> E:\数据结构\Prim-最短路径\x64\Debug\Prim-最短路径.exe

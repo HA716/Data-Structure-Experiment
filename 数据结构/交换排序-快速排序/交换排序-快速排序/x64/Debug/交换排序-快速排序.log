@@ -1,0 +1,3 @@
+﻿E:\数据结构\交换排序-快速排序\交换排序-快速排序\交换排序-快速排序.vcxproj(64,5): warning MSB4011: 无法再次导入“C:\Users\Hbr\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props”。可能已在“E:\数据结构\交换排序-快速排序\交换排序-快速排序\交换排序-快速排序.vcxproj (58,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  交换排序-快速排序.cpp
+  交换排序-快速排序.vcxproj -> E:\数据结构\交换排序-快速排序\x64\Debug\交换排序-快速排序.exe

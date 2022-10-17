@@ -1,0 +1,7 @@
+﻿  约瑟夫问题.c
+e:\数据结构\约瑟夫问题\约瑟夫问题\约瑟夫问题\约瑟夫问题.c(154): warning C4098: “CompareMyNum”:“void”函数返回值
+e:\数据结构\约瑟夫问题\约瑟夫问题\约瑟夫问题\约瑟夫问题.c(157): warning C4098: “CompareMyNum”:“void”函数返回值
+e:\数据结构\约瑟夫问题\约瑟夫问题\约瑟夫问题\约瑟夫问题.c(180): warning C4133: “函数”: 从“void (__cdecl *)(LinkNode *,LinkNode *)”到“COMPARENODE”的类型不兼容
+e:\数据结构\约瑟夫问题\约瑟夫问题\约瑟夫问题\约瑟夫问题.c(227): warning C4133: “函数”: 从“void (__cdecl *)(LinkNode *)”到“PRINTNODE”的类型不兼容
+e:\数据结构\约瑟夫问题\约瑟夫问题\约瑟夫问题\约瑟夫问题.c(232): warning C4133: “函数”: 从“void (__cdecl *)(LinkNode *)”到“PRINTNODE”的类型不兼容
+  约瑟夫问题.vcxproj -> E:\数据结构\约瑟夫问题\约瑟夫问题\Debug\约瑟夫问题.exe

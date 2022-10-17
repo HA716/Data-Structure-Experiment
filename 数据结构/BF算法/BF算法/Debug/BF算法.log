@@ -1,0 +1,4 @@
+﻿  BF算法.c
+e:\数据结构\bf算法\bf算法\bf算法.c(28): warning C4033: “Copy”必须返回值
+e:\数据结构\bf算法\bf算法\bf算法.c(41): warning C4715: “Copy”: 不是所有的控件路径都返回值
+  BF算法.vcxproj -> E:\数据结构\BF算法\Debug\BF算法.exe

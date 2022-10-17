@@ -1,0 +1,5 @@
+﻿E:\数据结构实验\实验4-冒泡排序\实验4-冒泡排序\实验4-冒泡排序.vcxproj(64,5): warning MSB4011: 无法再次导入“C:\Users\Hbr\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props”。可能已在“E:\数据结构实验\实验4-冒泡排序\实验4-冒泡排序\实验4-冒泡排序.vcxproj (58,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  实验4-冒泡排序.c
+e:\数据结构实验\实验4-冒泡排序\实验4-冒泡排序\实验4-冒泡排序.c(25): warning C4033: “BubbleSort”必须返回值
+e:\数据结构实验\实验4-冒泡排序\实验4-冒泡排序\实验4-冒泡排序.c(32): warning C4716: “BubbleSort”: 必须返回一个值
+  实验4-冒泡排序.vcxproj -> E:\数据结构实验\实验4-冒泡排序\x64\Debug\实验4-冒泡排序.exe

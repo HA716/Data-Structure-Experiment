@@ -1,0 +1,12 @@
+﻿  循环链表.c
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(159): warning C4098: “Find”:“void”函数返回值
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(219): warning C4098: “comparePerson”:“void”函数返回值
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(221): warning C4098: “comparePerson”:“void”函数返回值
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(240): warning C4133: “函数”: 从“Person *”到“LinkNode *”的类型不兼容
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(241): warning C4133: “函数”: 从“Person *”到“LinkNode *”的类型不兼容
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(242): warning C4133: “函数”: 从“Person *”到“LinkNode *”的类型不兼容
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(245): warning C4133: “函数”: 从“void (__cdecl *)(LinkNode *)”到“PRINTNODE”的类型不兼容
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(248): warning C4133: “函数”: 从“LinkList *”到“const char *”的类型不兼容
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(248): warning C4020: “remove”: 实参太多
+e:\数据结构\循环链表\循环链表\循环链表\循环链表.c(249): warning C4133: “函数”: 从“void (__cdecl *)(LinkNode *)”到“PRINTNODE”的类型不兼容
+  循环链表.vcxproj -> E:\数据结构\循环链表\循环链表\Debug\循环链表.exe

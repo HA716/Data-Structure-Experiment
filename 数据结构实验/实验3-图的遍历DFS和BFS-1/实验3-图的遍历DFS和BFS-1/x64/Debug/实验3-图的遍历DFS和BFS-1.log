@@ -1,0 +1,8 @@
+﻿  实验3-图的遍历DFS和BFS.c
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(23): warning C4033: “Located”必须返回值
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(145): warning C4033: “FirstAdjVex”必须返回值
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(163): warning C4033: “NextAdjVex”必须返回值
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(37): warning C4715: “Located”: 不是所有的控件路径都返回值
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(157): warning C4715: “FirstAdjVex”: 不是所有的控件路径都返回值
+e:\数据结构实验\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs-1\实验3-图的遍历dfs和bfs.c(174): warning C4715: “NextAdjVex”: 不是所有的控件路径都返回值
+  实验3-图的遍历DFS和BFS-1.vcxproj -> E:\数据结构实验\实验3-图的遍历DFS和BFS-1\x64\Debug\实验3-图的遍历DFS和BFS-1.exe

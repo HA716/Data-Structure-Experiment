@@ -1,0 +1,17 @@
+﻿  LinkList.c
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(31): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(51): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(45): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(74): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(75): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(80): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(81): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(63): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(109): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(128): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(124): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(151): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(184): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(185): warning C4133: “=”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+e:\数据结构\动态链表\linklist.c\linklist.c\linklist.c(173): warning C4133: “初始化”: 从“LinkNode *”到“LinkNode *”的类型不兼容
+  LinkList.c.vcxproj -> E:\数据结构\动态链表\LinkList.c\Debug\LinkList.exe

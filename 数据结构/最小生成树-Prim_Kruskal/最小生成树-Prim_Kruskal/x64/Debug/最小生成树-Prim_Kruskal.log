@@ -1,0 +1,5 @@
+﻿E:\数据结构\最小生成树-Prim_Kruskal\最小生成树-Prim_Kruskal\最小生成树-Prim_Kruskal.vcxproj(64,5): warning MSB4011: 无法再次导入“C:\Users\Hbr\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props”。可能已在“E:\数据结构\最小生成树-Prim_Kruskal\最小生成树-Prim_Kruskal\最小生成树-Prim_Kruskal.vcxproj (58,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  最小生成树-Prim_Kruskal.cpp
+e:\数据结构\最小生成树-prim_kruskal\最小生成树-prim_kruskal\最小生成树-prim_kruskal.cpp(52): warning C4091: “typedef ”: 没有声明变量时忽略“closedge”的左侧
+e:\数据结构\最小生成树-prim_kruskal\最小生成树-prim_kruskal\最小生成树-prim_kruskal.cpp(59): warning C4091: “typedef ”: 没有声明变量时忽略“Edge”的左侧
+  最小生成树-Prim_Kruskal.vcxproj -> E:\数据结构\最小生成树-Prim_Kruskal\x64\Debug\最小生成树-Prim_Kruskal.exe

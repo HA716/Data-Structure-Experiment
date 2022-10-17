@@ -1,0 +1,5 @@
+﻿E:\数据结构\KMP(b站up版)\KMP(b站up版)\KMP(b站up版).vcxproj(64,5): warning MSB4011: 无法再次导入“C:\Users\Hbr\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.x64.user.props”。可能已在“E:\数据结构\KMP(b站up版)\KMP(b站up版)\KMP(b站up版).vcxproj (58,5)”处导入过它。这很可能是生成创作错误。将忽略此后续导入。
+  KMP算法（b站up版）.cpp
+e:\数据结构\kmp(b站up版)\kmp(b站up版)\kmp算法（b站up版）.cpp(53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\数据结构\kmp(b站up版)\kmp(b站up版)\kmp算法（b站up版）.cpp(54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  KMP(b站up版).vcxproj -> E:\数据结构\KMP(b站up版)\x64\Debug\KMP(b站up版).exe

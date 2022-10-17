@@ -1,0 +1,6 @@
+﻿  SeqQueue.c
+e:\数据结构\队列的顺序存储\seqqueue\seqqueue\seqqueue.c(80): warning C4033: “Front”必须返回值
+e:\数据结构\队列的顺序存储\seqqueue\seqqueue\seqqueue.c(84): warning C4033: “Front”必须返回值
+e:\数据结构\队列的顺序存储\seqqueue\seqqueue\seqqueue.c(104): warning C4098: “Back”:“void”函数返回值
+e:\数据结构\队列的顺序存储\seqqueue\seqqueue\seqqueue.c(90): warning C4715: “Front”: 不是所有的控件路径都返回值
+  SeqQueue.vcxproj -> E:\数据结构\队列的顺序存储\SeqQueue\Debug\SeqQueue.exe

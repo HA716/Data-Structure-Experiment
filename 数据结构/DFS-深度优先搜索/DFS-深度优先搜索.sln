@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DFS-深度优先搜索", "DFS-深度优先搜索\DFS-深度优先搜索.vcxproj", "{9E96CD59-B035-4A99-9542-61B18B091966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E96CD59-B035-4A99-9542-61B18B091966}.Debug|x64.ActiveCfg = Debug|x64
+		{9E96CD59-B035-4A99-9542-61B18B091966}.Debug|x64.Build.0 = Debug|x64
+		{9E96CD59-B035-4A99-9542-61B18B091966}.Release|x64.ActiveCfg = Release|x64
+		{9E96CD59-B035-4A99-9542-61B18B091966}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F20A6D9-C26D-4B27-87CE-653B0F8B3524}
+	EndGlobalSection
+EndGlobal

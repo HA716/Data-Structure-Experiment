@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prim-最短路径", "Prim-最短路径\Prim-最短路径.vcxproj", "{8935742B-7A71-4906-B951-EA4966876312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8935742B-7A71-4906-B951-EA4966876312}.Debug|x64.ActiveCfg = Debug|x64
+		{8935742B-7A71-4906-B951-EA4966876312}.Debug|x64.Build.0 = Debug|x64
+		{8935742B-7A71-4906-B951-EA4966876312}.Release|x64.ActiveCfg = Release|x64
+		{8935742B-7A71-4906-B951-EA4966876312}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57D587A7-EA0E-4528-8C6B-A6F264F3444B}
+	EndGlobalSection
+EndGlobal
